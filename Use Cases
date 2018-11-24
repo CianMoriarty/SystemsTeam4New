@@ -1,0 +1,22 @@
+Student: 
+The student only has one possible action on the system; to view their own details. The information displayed 
+is dependant on their progression through their degree programme. The system should display grades achieved
+for each level of their programme, as well as their degree as a whole if they have completed it. The student 
+cannot update any information, details displayed are read only.
+
+USE CASE:   View Status
+PURPOSE:    Allow the student to view their grades for each completed level of their degree programme
+REQUIRE:    The student is logged in to the system
+EVENT FLOW: 1. Student logs in to system
+            2. System displays student's status
+            3. Student logs out of system after seeing status
+SUCCESS:    The student is logged out and has seen their status
+
+
+Admin:
+
+
+Registrar:
+
+
+Teacher:
